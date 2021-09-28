@@ -17,7 +17,7 @@ Gözetim altında olmayan bir protokol olarak, kullanıcılar Tornado.Cash'i iş
 Tornado Cash, kaynak ve hedef adresler arasındaki on-chain bağlantısını keserek işlem gizliliğini sağlıyor. Bir adresten ETH ve diğer token mevduatlarını kabul eden ve farklı bir adresten çekilmelerini sağlayan akıllı bir sözleşme kullanır.
 Gizliliği korumak amacıyla önceden var olup bakiyesi olmayan bir adrese, para çekmek için gas ödemelerinde bir aktarıcının kullanılması gibi birkaç uygulamaya sahiptir.
 
-Daha fazla ayrıntı için: [Tornado.Cash nasıl çalışır?](https:/https://github.com/0xarmagan/docs/blob/6906bfbd2f1c74bcdbd4ea36a054d2824d6e7517/how-does-tornado.cash-work.md/) & [Anonim kalma ipuçları](https:/https://github.com/0xarmagan/docs/blob/6906bfbd2f1c74bcdbd4ea36a054d2824d6e7517/tips-to-remain-anonymous.md/) 
+Daha fazla ayrıntı için: [Tornado.Cash nasıl çalışır?](https://github.com/0xarmagan/docs/blob/6906bfbd2f1c74bcdbd4ea36a054d2824d6e7517/how-does-tornado.cash-work.md/) & [Anonim kalma ipuçları](https://github.com/0xarmagan/docs/blob/6906bfbd2f1c74bcdbd4ea36a054d2824d6e7517/tips-to-remain-anonymous.md/) 
 
 
 
@@ -37,7 +37,7 @@ Bugün itibariyle Tornado.Cash aşağıdaki tokenlarla kullanılabilir:
 
 Protokol ayrıca, tokenlarının bir kısmı için, kullanıcılarının **yönetişim tokenı** kazanmalarına olanak tanıyan bir **anonim likidite madenciliği** sistemine de sahiptir. TORN tokenı sayesinde Tornado Cash kullanıcıları protokolün şekillendirilmesine aktif olarak katılır. Topluluk, Tornado Cash'in evrimi ve özelliklerinin iyileştirilmesi konusunda güçlü bir etkiye sahiptir. Aslında, protokol parametreleri ve token dağıtımı, bu yönetişim aracılığıyla tamamen topluluğun kontrolü altındadır.
 
-[Anonim likidite madenciliği](https://) ve [Tornado.Cash tokenı](https://) hakkında daha fazla bilgiye ulaşabilirsiniz.
+[Anonim likidite madenciliği](https://https://github.com/0xarmagan/docs/blob/6906bfbd2f1c74bcdbd4ea36a054d2824d6e7517/anonymity-mining.md) ve [Tornado.Cash tokenı](https://https://github.com/0xarmagan/docs/blob/6906bfbd2f1c74bcdbd4ea36a054d2824d6e7517/torn.md) hakkında daha fazla bilgiye ulaşabilirsiniz.
 
 
 ## Tornado.Cash Nasıl Çalışır?
